@@ -69,6 +69,7 @@ nav:
 hometop:
   enable: true
   banner:
+  enable: flase
     title: 分享技术<br >与科技生活 # 大字
     desc:
       一个热爱生活的人 # 小字
