@@ -67,7 +67,7 @@ nav:
 # Home Top Banner
 # 首页顶部
 hometop:
-  enable: false
+  enable: true
   banner:
     title: 分享技术<br >与科技生活 # 大字
     desc:
