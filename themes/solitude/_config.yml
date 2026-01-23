@@ -69,13 +69,8 @@ nav:
 hometop:
   enable: true
   banner:
-    enable: false
-    title: 分享技术<br >与科技生活 # 大字
-    desc:
-      一个热爱生活的人 # 小字
-      # - 我只是一个普通的程序员
-      # - 但我有一个不平凡的梦想
-      # - 我希望能够改变世界
+    title: ""
+    desc: ""
     icon:
       # HTML: # name
       #   img: https://i.postimg.cc/vBWVnY8q/html.png # url
